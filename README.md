@@ -30,3 +30,9 @@ Clone este repositório para o seu computador usando o seguinte comando:
 
 ```bash
 git clone https://github.com/valentineemanuele/o-viajante.git
+
+
+## Licença
+
+Este projeto é licenciado sob a [MIT License](LICENSE).
+
