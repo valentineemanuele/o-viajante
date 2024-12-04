@@ -1,38 +1,25 @@
-# o-viajante
-SITE DE INSTRUÇÕES BUDISTAS
+# O Viajante
 
-# O Viajante - Site Budista
-
-**O Viajante** é um site dedicado a compartilhar os caminhos budistas para a iluminação. O projeto visa ser um portal interativo e acessível para aqueles que desejam aprender mais sobre o Budismo e suas práticas. O site contém informações sobre os preceitos budistas, o Caminho do Óctuplo, meditação, e muito mais.
+**O Viajante** é um site dedicado ao ensinamento do Budismo, oferecendo uma introdução aos seus preceitos e práticas, incluindo tópicos como a Meditação, o Caminho Óctuplo e como aplicar o Budismo no dia a dia. O objetivo do projeto é fornecer recursos e informações sobre a jornada espiritual para a iluminação.
 
 ## Funcionalidades
 
-- **Introdução ao Budismo**: Explicação básica sobre o que é o Budismo.
-- **Preceitos Budistas**: Descrição dos principais preceitos que guiam a vida de um praticante budista.
-- **Caminho do Óctuplo**: Explicação sobre a prática do Caminho do Óctuplo, fundamental para alcançar a iluminação.
-- **Como Meditar**: Dicas práticas sobre como iniciar e praticar a meditação.
-- **Como Aplicar o Budismo no Dia a Dia**: Sugestões sobre como integrar os princípios budistas em sua rotina.
-- **Dúvidas**: Respostas para perguntas comuns sobre o Budismo.
+- **Introdução ao Budismo**: Uma explicação básica sobre os princípios e história do Budismo.
+- **Preceitos Budistas**: Detalhes sobre os preceitos que guiam a vida do praticante budista.
+- **Caminho do Óctuplo**: Explicação sobre os 8 caminhos para a iluminação, detalhados em uma lista interativa.
+- **Como Meditar**: Orientações sobre como iniciar a prática de meditação.
+- **Como Aplicar o Budismo no Dia a Dia**: Dicas para incorporar os ensinamentos budistas na vida cotidiana.
+- **Dúvidas**: Sessão de perguntas e respostas para esclarecer dúvidas sobre o Budismo.
 
-Cada seção do site está acessível por meio de botões interativos, e o conteúdo de cada uma pode ser exibido ou ocultado ao clicar nos botões.
+## Tecnologias Utilizadas
 
-## Tecnologias Usadas
+- **HTML5**: Para estruturar o conteúdo da página.
+- **CSS3**: Para o design e a estética do site.
+- **JavaScript**: Para interatividade, como efeitos nos botões.
+- **Git & GitHub**: Para controle de versão e compartilhamento do código.
 
-- **HTML**: Estrutura básica do site.
-- **CSS**: Estilo e design responsivo, incluindo efeitos de transição para os botões.
-- **JavaScript**: Interatividade para mostrar e esconder o conteúdo quando os botões são clicados.
+## Como Usar
 
-## Como Rodar o Projeto
-
-### Passo 1: Baixar ou Clonar o Repositório
-
-Clone este repositório para o seu computador usando o seguinte comando:
-
-```bash
-git clone https://github.com/valentineemanuele/o-viajante.git
-
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/valentineemanuele/O-viajante.git
