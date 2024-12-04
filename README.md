@@ -13,9 +13,9 @@
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Para estruturar o conteúdo da página.
-- **CSS3**: Para o design e a estética do site.
-- **JavaScript**: Para interatividade, como efeitos nos botões.
+- ```HTML5```: Para estruturar o conteúdo da página.
+- ```CSS3```: Para o design e a estética do site.
+- ```JavaScript```: Para interatividade, como efeitos nos botões.
 - **Git & GitHub**: Para controle de versão e compartilhamento do código.
 
 ## Como Usar
